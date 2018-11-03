@@ -15,4 +15,4 @@
 **Thoughts:** This one was harder and I've got plenty of bugs, but the game's structure it's finally getting clearer in my mind.
 
 
-**Link to work:** [https://github.com/mbernardes19/parabot](Parabot's repository)
+**Link to work:** [Parabot's repository](https://github.com/mbernardes19/parabot)
