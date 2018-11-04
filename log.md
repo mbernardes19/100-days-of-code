@@ -14,5 +14,12 @@
 
 **Thoughts:** This one was harder and I've got plenty of bugs, but the game's structure it's finally getting clearer in my mind.
 
-
 **Link to work:** [https://github.com/mbernardes19/parabot](Parabot's repository)
+
+### Day 3: November 3nd, 2018
+
+**Today's Progress:** Today I made a pull request to a open sourcer cause, fixed a navbar!
+
+**Thoughts:** Happy for tackling an issue that I could fix all by myself.
+
+**Link to work:** [https://github.com/fossasia/publiccode.asia/pull/162](Pull Request to fix navbar)
