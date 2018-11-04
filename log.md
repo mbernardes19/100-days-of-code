@@ -24,4 +24,4 @@
 
 **Thoughts:** Happy for tackling an issue that I could fix all by myself.
 
-**Link to work:** [https://github.com/fossasia/publiccode.asia/pull/162](Pull Request to fix navbar)
+**Link to work:** [Pull Request to fix navbar](https://github.com/fossasia/publiccode.asia/pull/162)
