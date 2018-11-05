@@ -18,10 +18,19 @@
 **Link to work:** [Parabot's repository](https://github.com/mbernardes19/parabot)
 
 
-### Day 3: November 3nd, 2018
+### Day 3: November 3rd, 2018
 
 **Today's Progress:** Today I made a pull request to a open sourcer cause, fixed a navbar!
 
 **Thoughts:** Happy for tackling an issue that I could fix all by myself.
 
 **Link to work:** [Pull Request to fix navbar](https://github.com/fossasia/publiccode.asia/pull/162)
+
+
+### Day 4: November 4th, 2018
+
+**Today's Progress:** Today I have learned how to use Destructuring Assignment to assign variables from objects, nested objects and arrays! Also, review self-invoking functions.
+
+**Thoughts:** Today I didn't have much time to tackle a project, but it is always good to learn something new from ES6.
+
+**Link to work:** [Destructuring Assignment to variables](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/use-destructuring-assignment-to-assign-variables-from-arrays)
