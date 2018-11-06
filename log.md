@@ -34,3 +34,12 @@
 **Thoughts:** Today I didn't have much time to tackle a project, but it is always good to learn something new from ES6.
 
 **Link to work:** [Destructuring Assignment to variables](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/use-destructuring-assignment-to-assign-variables-from-arrays)
+
+
+### Day 5: November 5th, 2018
+
+**Today's Progress:** Today wasn't so productive cause I've been stucked trying to understand how Phaser 3 worked.
+
+**Thoughts:** I don't know if I'll stick with Phaser 3 or 2 'cause 3 is giving me plenty of headaches.
+
+**Link to work:** None, just some scrolling around Phaser 3's docs
