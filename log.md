@@ -43,3 +43,12 @@
 **Thoughts:** I don't know if I'll stick with Phaser 3 or 2 'cause 3 is giving me plenty of headaches.
 
 **Link to work:** None, just some scrolling around Phaser 3's docs
+
+
+### Day 6: November 6th, 2018
+
+**Today's Progress:** Learned what JSON is, MEAN stack, npm, about REST, Back-End Web Architecture and finally understood how Phaser is structured and made a full working template.
+
+**Thoughts:** After a bad day, now I'm feeling really in great because I'm solving my problems and really understanding the "Development World"
+
+**Link to work:** I had some troubles pushing the Phaser template to GitHub, tomorrow I'll do that
