@@ -56,7 +56,7 @@
 
 ### Day 7: November 7th, 2018
 
-**Today's Progress:** Got player's sprite and walk cycle frames inside Phaser Game, and I'm dealing with the framework much better.
+**Today's Progress:** Got player's sprite and walk cycle frames inside Phaser Game, and I'm dealing with the framework much better. Also learned how to use TexturePacker with Phaser.
 
 **Thoughts:** Still having some problems, but I feel that I'm much better than some days ago. Excited!
 
