@@ -52,3 +52,12 @@
 **Thoughts:** After a bad day, now I'm feeling really in great because I'm solving my problems and really understanding the "Development World"
 
 **Link to work:** I had some troubles pushing the Phaser template to GitHub, tomorrow I'll do that
+
+
+### Day 7: November 7th, 2018
+
+**Today's Progress:** Got player's sprite and walk cycle frames inside Phaser Game, and I'm dealing with the framework much better.
+
+**Thoughts:** Still having some problems, but I feel that I'm much better than some days ago. Excited!
+
+**Link to work:** None, still having troubles with git, I'll solve that soon.
