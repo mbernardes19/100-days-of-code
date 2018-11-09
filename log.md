@@ -61,3 +61,12 @@
 **Thoughts:** Still having some problems, but I feel that I'm much better than some days ago. Excited!
 
 **Link to work:** None, still having troubles with git, I'll solve that soon.
+
+
+### Day 8: November 8th, 2018
+
+**Today's Progress:** Learned how to use Rest Operator to reassing array elements and Destructed assignments to pass object as parameters
+
+**Thoughts:** Feeling phisically tired today, but didn't give up!
+
+**Link to work:** None
