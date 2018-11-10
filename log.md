@@ -70,3 +70,11 @@
 **Thoughts:** Feeling phisically tired today, but didn't give up!
 
 **Link to work:** None
+
+### Day 9: November 9th, 2018
+
+**Today's Progress:** Learned what typed arrays in JavaScript are and how to use them with buffers!
+
+**Thoughts:** Go on!
+
+**Link to work:** https://learn.freecodecamp.org/coding-interview-prep/data-structures/typed-arrays
