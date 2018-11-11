@@ -80,6 +80,7 @@
 
 **Link to work:** https://learn.freecodecamp.org/coding-interview-prep/data-structures/typed-arrays
 
+
 ### Day 10: November 10th, 2018
 
 **Today's Progress:** Today I have began learning what is Node and how it works: npm, its modular structure and its capabilities.
@@ -87,3 +88,12 @@
 **Thoughts:** Soon I might be trying to make something with it, so it will be good to know how it works.
 
 **Link to work:** None.
+
+
+### Day 11: November 11th, 2018
+
+**Today's Progress:** Today I finally made the code for inserting the player's sprite and animating it work!
+
+**Thoughts:** I'm so relieved that I've finally done that and made the actual game setup. It took more time than I expected. But well, it's done. Now let's move on! 
+
+**Link to work:** https://github.com/mbernardes19/parabot
