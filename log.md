@@ -71,6 +71,7 @@
 
 **Link to work:** None
 
+
 ### Day 9: November 9th, 2018
 
 **Today's Progress:** Learned what typed arrays in JavaScript are and how to use them with buffers!
@@ -78,3 +79,11 @@
 **Thoughts:** Go on!
 
 **Link to work:** https://learn.freecodecamp.org/coding-interview-prep/data-structures/typed-arrays
+
+### Day 10: November 10th, 2018
+
+**Today's Progress:** Today I have began learning what is Node and how it works: npm, its modular structure and its capabilities.
+
+**Thoughts:** Soon I might be trying to make something with it, so it will be good to know how it works.
+
+**Link to work:** None.
