@@ -97,3 +97,12 @@
 **Thoughts:** I'm so relieved that I've finally done that and made the actual game setup. It took more time than I expected. But well, it's done. Now let's move on! 
 
 **Link to work:** https://github.com/mbernardes19/parabot
+
+
+### Day 12: November 12th, 2018
+
+**Today's Progress:** Started learning about testing, Jest and Scrum and Agile to get ready for my next project.
+
+**Thoughts:** I'm gonna make such a huge step soon, and this requires me to learn much more about development.
+
+**Link to work:**
