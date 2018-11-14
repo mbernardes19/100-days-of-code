@@ -105,4 +105,13 @@
 
 **Thoughts:** I'm gonna make such a huge step soon, and this requires me to learn much more about development.
 
-**Link to work:**
+**Link to work:** None.
+
+
+### Day 13: November 13th, 2018
+
+**Today's Progress:** Today I've got a book about MERN stack and I'm studying JSX syntax for React.
+
+**Thoughts:** I'm so happy for learning React because I know this will give me really good opportunities in the future.
+
+**Link to work:** None.
