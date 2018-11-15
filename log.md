@@ -115,3 +115,12 @@
 **Thoughts:** I'm so happy for learning React because I know this will give me really good opportunities in the future.
 
 **Link to work:** None.
+
+
+### Day 14: November 14th, 2018
+
+**Today's Progress:** Today I continued to learn MERN stack, I learned about React components, its story, how to install Node through nvm and how to start a project configuring package.json.
+
+**Thoughts:** React and Node are getting familiar to me!
+
+**Link to work:** None.
