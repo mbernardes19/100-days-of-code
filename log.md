@@ -124,3 +124,12 @@
 **Thoughts:** React and Node are getting familiar to me!
 
 **Link to work:** None.
+
+
+### Day 15: November 15th, 2018
+
+**Today's Progress:** Due to my wedding responsabilities and to my work, I couldn't study much today, but in my free time I read about MERN stack again. 
+
+**Thoughts:** As soon as things get to normal I'll focus even more and build things on MERN stack.
+
+**Link to work:** None.
