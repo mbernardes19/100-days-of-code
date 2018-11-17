@@ -133,3 +133,12 @@
 **Thoughts:** As soon as things get to normal I'll focus even more and build things on MERN stack.
 
 **Link to work:** None.
+
+
+### Day 16: November 16th, 2018
+
+**Today's Progress:** Learned more about Node and Express! 
+
+**Thoughts:** This will be of a great importance on my next project!
+
+**Link to work:** None.
