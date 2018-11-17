@@ -142,3 +142,12 @@
 **Thoughts:** This will be of a great importance on my next project!
 
 **Link to work:** None.
+
+
+### Day 17: November 17th, 2018
+
+**Today's Progress:** Learned NPM automate scripts, learned how to use Babel for building Front End projects with React (JSX syntax), learned React classes, components and props!
+
+**Thoughts:** Today was really productive in the education side. I know there's plenty more to come from React but I'm feeling more comfortable with MERN stack.
+
+**Link to work:** None.
