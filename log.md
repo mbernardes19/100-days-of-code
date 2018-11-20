@@ -151,3 +151,21 @@
 **Thoughts:** Today was really productive in the education side. I know there's plenty more to come from React but I'm feeling more comfortable with MERN stack.
 
 **Link to work:** None.
+
+
+### Day 18: November 18th, 2018
+
+**Today's Progress:** Today I learned React special props, how to use React's children keyword, how to pass data dynamically between components and HTTP verbs.
+
+**Thoughts:** I couldn't post it in the day because my wedding is coming soon and I'm pretty busy with the preparations. But I'm feeling good with what I'm learning.
+
+**Link to work:** None.
+
+
+### Day 19: November 19th, 2018
+
+**Today's Progress:** Read some HTTP verbs, APIs books and blog posts
+
+**Thoughts:** Since my wedding is on the next Thursday, today I had to work and to make my first grocery shopping with my fiancé, so I hadn't much time to get my hands on coding.
+
+**Link to work:** None.
