@@ -169,3 +169,30 @@
 **Thoughts:** Since my wedding is on the next Thursday, today I had to work and to make my first grocery shopping with my fiancé, so I hadn't much time to get my hands on coding.
 
 **Link to work:** None.
+
+
+### Day 20: November 20th, 2018
+
+**Today's Progress:** Read some documentation about my system project and sketched some structures.
+
+**Thoughts:** I'll get married on November 22th, so my available time for code is running low
+
+**Link to work:**
+
+
+### Day 21: November 21th, 2018
+
+**Today's Progress:** Read about APIs.
+
+**Thoughts:** Wedding tomorrow, no time nor physical health to code.
+
+**Link to work:** 
+
+
+### Day 22: November 22th, 2018
+
+**Today's Progress:** Read about some more APIs.
+
+**Thoughts:** Wedding today.
+
+**Link to work:**
