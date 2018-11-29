@@ -196,3 +196,57 @@
 **Thoughts:** Wedding today.
 
 **Link to work:**
+
+
+### Day 23: November 23th, 2018
+
+**Today's Progress:** Read about React.
+
+**Thoughts:** On honeymoon but learning.
+
+**Link to work:**
+
+
+### Day 24: November 24th, 2018
+
+**Today's Progress:** Began to analyze system's documentation and to design classes structure. Also began to code one of the module's frontend.
+
+**Thoughts:** Starting to get my hands dirty on making this system.
+
+**Link to work:**
+
+
+### Day 25: November 25th, 2018
+
+**Today's Progress:** Learned how AJAX works and how to use it.
+
+**Thoughts:** Still have pretty much to learn.
+
+**Link to work:**
+
+
+### Day 26: November 26th, 2018
+
+**Today's Progress:** Learned what is a CDN, how to use ContaAzul's and Gerencianet's APIs in order to integrate it with the system I'm developing.
+
+**Thoughts:** There are many "little knowledges" I need to have to make things work, but that's ok.
+
+**Link to work:**
+
+
+### Day 27: November 27th, 2018
+
+**Today's Progress:** Read about Client/Server model.
+
+**Thoughts:** It's good to review fundamental stuff.
+
+**Link to work:**
+
+
+### Day 28: November 28th, 2018
+
+**Today's Progress:** Read about React (states and props).
+
+**Thoughts:** I need to get used to all this structure.
+
+**Link to work:**
