@@ -250,3 +250,30 @@
 **Thoughts:** I need to get used to all this structure.
 
 **Link to work:**
+
+
+### Day 29: November 29th, 2018
+
+**Today's Progress:** Studied in a practical way React (props vs states)
+
+**Thoughts:** 
+
+**Link to work:**
+
+
+### Day 30: November 30th, 2018
+
+**Today's Progress:** Studied Servicebot API for my developing system
+
+**Thoughts:** 
+
+**Link to work:**
+
+
+### Day 31: December 1st, 2018
+
+**Today's Progress:** Read some more about Servicebot API
+
+**Thoughts:** 
+
+**Link to work:**
