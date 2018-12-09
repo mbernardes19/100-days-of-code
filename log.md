@@ -254,7 +254,7 @@
 
 ### Day 29: November 29th, 2018
 
-**Today's Progress:** Studied in a practical way React (props vs states)
+**Today's Progress:** Studied in a practical way React (props vs states).
 
 **Thoughts:** 
 
@@ -263,7 +263,7 @@
 
 ### Day 30: November 30th, 2018
 
-**Today's Progress:** Studied Servicebot API for my developing system
+**Today's Progress:** Studied Servicebot API for my developing system.
 
 **Thoughts:** 
 
@@ -272,8 +272,71 @@
 
 ### Day 31: December 1st, 2018
 
-**Today's Progress:** Read some more about Servicebot API
+**Today's Progress:** Read some more about Servicebot API.
 
 **Thoughts:** 
+
+**Link to work:**
+
+
+### Day 32: December 2nd, 2018
+
+**Today's Progress:** Thinking of a way to build my system... Kinda confused.
+
+**Thoughts:** 
+
+**Link to work:**
+
+
+### Day 33: December 3rd, 2018
+
+**Today's Progress:** Read about MongoDB and Mongoose.
+
+**Thoughts:** 
+
+**Link to work:**
+
+
+### Day 34: December 4th, 2018
+
+**Today's Progress:** Implemented MongoDB for the first time, I'm learning how it works.
+
+**Thoughts:** 
+
+**Link to work:**
+
+
+### Day 35: December 5th, 2018
+
+**Today's Progress:** Testing more MongoDB commands.
+
+**Thoughts:** MongoDB is so easy to use, even easier than SQL databases.
+
+**Link to work:**
+
+
+### Day 36: December 6th, 2018
+
+**Today's Progress:** Started designing my system's class diagram.
+
+**Thoughts:** I'm finally feeling like I know what I'm doing.
+
+**Link to work:**
+
+
+### Day 37: December 7th, 2018
+
+**Today's Progress:** Read and tested some more about MongoDB 
+
+**Thoughts:** 
+
+**Link to work:**
+
+
+### Day 38: December 8th, 2018
+
+**Today's Progress:** Finished my system's class diagram!
+
+**Thoughts:** Now that I have all the classes, attributes and methods (as I think so), everything is much clearer.
 
 **Link to work:**
